@@ -1,0 +1,20 @@
+{
+  "files": {
+    "collage.c": [
+      {
+        "id": "20f39272-eed0-4013-b028-c003ca0ff5df",
+        "line": 2,
+        "version": 464,
+        "index": 22
+      }
+    ],
+    "main.c": [
+      {
+        "id": "16b42f71-9a98-4016-9b92-cbb2e768c27b",
+        "line": 1,
+        "version": 342,
+        "index": 0
+      }
+    ]
+  }
+}
